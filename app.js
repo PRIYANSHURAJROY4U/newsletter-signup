@@ -67,7 +67,7 @@ app.post("/failure",function(req,res){
 
 
 
-app.listen(process.env.PORT || 2500 , function(){
+app.listen(Process.env.PORT || 2500 , function(){
 console.log("server initiated on port 2600")});
 
 
